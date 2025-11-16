@@ -1,0 +1,33 @@
+# Virtual environments
+venv/
+ENV/
+
+# Python cache & logs
+__pycache__/
+*.py[cod]
+*.log
+
+# Environment files
+.env
+*.env
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Django build artifacts
+media/
+staticfiles/
+*.pot
+*.pyc
+*.pyo
+*.pyd
+
+# MySQL dumps and configs
+*.sql
+*.db
+*.cnf
+
+# OS/system junk
+.DS_Store
+Thumbs.db
