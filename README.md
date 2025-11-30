@@ -61,8 +61,8 @@ This setup ensures scalability, maintainability, and readiness for production.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/DonG4667/alx_travel_app_0x00.git
-   cd alx_travel_app_0x00
+   git clone https://github.com/DonG4667/alx_travel_app_0x01.git
+   cd alx_travel_app_0x01
    ```
 
 2. **Create a virtual environment:**
